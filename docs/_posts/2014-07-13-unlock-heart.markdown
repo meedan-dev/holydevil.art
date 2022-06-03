@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2014-07-15
-img: submarine.png
-alt: image-alt
+img: unlock_heart.png
+alt: unlock-your-heart
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
